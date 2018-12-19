@@ -1,0 +1,42 @@
+/*
+ Theme Name:   Hawthorn Child
+ Theme URI:    http://example.com/hawthorn-child/
+ Description:  Hawthorn Child Theme
+ Author:       Bandana Studio
+ Author URI:   http://bandanastudio.co
+ Template:     hawthorn
+ Version:      1.0.0
+*/
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+/* - Footer Widgets ----- */
+.footer-widgets .widget-title, .footer-widgets .social-widget, .footer-widgets .social-widget a,  .footer-widgets .about-widget{
+  text-align:center;
+}
+.text-widget .custom-html-widget ul li {
+  text-align: center;
+}
+#footer {
+  background-color: #314160;
+}
+.footer-widgets .widget-title {
+  color: #ffffff;
+  font-weight: bold;
+}
+#footer-top {
+	background-color:#F6F6F5;
+  padding:30px 0 30px;
+}
+.schedule-a-call, .subscribe-footer {
+  text-align: center;
+}
+h2.footer-title {
+  color: #314160;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.schedule-a-call p {
+  font-size: 18px;
+}
